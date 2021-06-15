@@ -1,11 +1,4 @@
-# ClickBot script by [Ziziworks](https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1)
-
-[Youtube](https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1) |
-[Instagram](https://www.instagram.com/ziziworks/) |
-[Facebook](https://www.facebook.com/ziziworks/) |
-[Telegram Channel](https://t.me/ziziworks) |
-[Telegram Group](https://t.me/ziziworksgroup) |
-[Twitter](https://twitter.com/ziziworks_MY)  
+# ClickBot script by t6res
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)    [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
