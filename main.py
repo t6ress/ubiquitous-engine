@@ -31,9 +31,9 @@ print(Fore.MAGENTA + '		__      _____ _    ___ ___  __  __ ___ ')
 print(Fore.MAGENTA + '		\ \    / / __| |  / __/ _ \|  \/  | __|')
 print(Fore.MAGENTA + '		 \ \/\/ /| _|| |_| (_| (_) | |\/| | _| ')
 print(Fore.MAGENTA + '		  \_/\_/ |___|____\___\___/|_|  |_|___|\n' + Fore.RESET)
-print(Fore.RED + '   -                   Click Bot Script v4                 -' + Fore.RESET)
+print(Fore.RED + '   -                   Click Bot Script                  -' + Fore.RESET)
 print('')
-print(Fore.YELLOW + '   -               Channel Youtube :' + Fore.RED +' Zizi' + Fore.WHITE +'works' + Fore.YELLOW +'             -')
+print(Fore.YELLOW + '   -               Channel Youtube :' + Fore.RED +' t6ress' + Fore.WHITE +'works' + Fore.YELLOW +'             -')
 # DESCRIPTION BLOCK
 print('\n		 Earn money using telegram bot.\n')
 # Bot options
